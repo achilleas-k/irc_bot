@@ -2,12 +2,13 @@ return
   { ['name']     = 'freenode'
   , ['address']  = 'chat.freenode.net'
   , ['port']     = 7000
-  , ['handle']   = 'pandactl'
-  , ['ident']    = 'pandactl'
-  , ['gecos']    = '🐼'
+  , ['handle']   = 'bagelbot'
+  , ['ident']    = 'bagelbot'
+  , ['gecos']    = 'bb'
   , ['admins']   =
-      { ['.*@.*%.halosgho%.st'] = 1
-      , ['.*@unaffiliated/meskarune'] = 2
+      { ['.*@unaffiliated/achillion'] = 1
+      , ['.*@.*%.halosgho%.st'] = 2
+      , ['.*@unaffiliated/meskarune'] = 3
       }
   , ['channels'] =
       { '##meskarune'
