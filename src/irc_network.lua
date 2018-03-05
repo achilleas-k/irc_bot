@@ -9,6 +9,7 @@ return
       { ['.*@unaffiliated/achillion'] = 1
       , ['.*@.*%.halosgho%.st'] = 2
       , ['.*@unaffiliated/meskarune'] = 3
+      , ['halosghos@mail.conklin.com'] = 4
       }
   , ['channels'] =
       { '##meskarune'
